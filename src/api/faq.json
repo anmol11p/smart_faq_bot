@@ -1,0 +1,127 @@
+[
+  {
+    "id": "faq001",
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' at the login page and follow the instructions to reset your password."
+  },
+  {
+    "id": "faq002",
+    "question": "How can I update my email address?",
+    "answer": "Go to Settings > Profile and update your email address."
+  },
+  {
+    "id": "faq003",
+    "question": "How do I delete my account?",
+    "answer": "Please contact our support team via the Help Center to permanently delete your account."
+  },
+  {
+    "id": "faq004",
+    "question": "Can I change my username?",
+    "answer": "Usernames cannot be changed once created, but you can create a new account."
+  },
+  {
+    "id": "faq005",
+    "question": "How do I contact customer support?",
+    "answer": "You can contact customer support via the 'Help' section in the app or email us at support@example.com."
+  },
+  {
+    "id": "faq006",
+    "question": "Is my data secure?",
+    "answer": "Yes, all data is encrypted and securely stored following industry standards."
+  },
+  {
+    "id": "faq007",
+    "question": "Can I use the app offline?",
+    "answer": "Some features are available offline, but you will need an internet connection for syncing and updates."
+  },
+  {
+    "id": "faq008",
+    "question": "How do I enable dark mode?",
+    "answer": "Go to Settings > Display > Dark Mode to enable or disable dark mode."
+  },
+  {
+    "id": "faq009",
+    "question": "Where can I download the mobile app?",
+    "answer": "You can download our app from the App Store (iOS) or Google Play Store (Android)."
+  },
+  {
+    "id": "faq010",
+    "question": "How do I update the app?",
+    "answer": "Visit the App Store or Google Play Store, and check for updates on the app page."
+  },
+  {
+    "id": "faq011",
+    "question": "Why am I not receiving notification emails?",
+    "answer": "Check your spam folder and make sure notifications are enabled in your account settings."
+  },
+  {
+    "id": "faq012",
+    "question": "How do I change my subscription plan?",
+    "answer": "Go to Settings > Billing to change, upgrade, or cancel your subscription plan."
+  },
+  {
+    "id": "faq013",
+    "question": "What payment methods are supported?",
+    "answer": "We support credit/debit cards, PayPal, and UPI payments."
+  },
+  {
+    "id": "faq014",
+    "question": "Do you offer student discounts?",
+    "answer": "Yes, students can apply for a 20% discount by verifying their student ID."
+  },
+  {
+    "id": "faq015",
+    "question": "How do I download my invoices?",
+    "answer": "Invoices are available in Settings > Billing > Invoices section."
+  },
+  {
+    "id": "faq016",
+    "question": "What happens if I cancel my subscription?",
+    "answer": "You will retain access until the end of the billing cycle, after which premium features will stop."
+  },
+  {
+    "id": "faq017",
+    "question": "How do I recover a deleted file?",
+    "answer": "Deleted files can be restored from the Trash folder within 30 days."
+  },
+  {
+    "id": "faq018",
+    "question": "How can I share my files with others?",
+    "answer": "Open the file, click on 'Share', and copy the link or add email addresses to share directly."
+  },
+  {
+    "id": "faq019",
+    "question": "Can I use my account on multiple devices?",
+    "answer": "Yes, you can log in on multiple devices using the same account credentials."
+  },
+  {
+    "id": "faq020",
+    "question": "How do I log out of all devices?",
+    "answer": "Go to Settings > Security and click 'Log out of all devices'."
+  },
+  {
+    "id": "faq021",
+    "question": "Do you have a free trial?",
+    "answer": "Yes, new users get a 7-day free trial of premium features."
+  },
+  {
+    "id": "faq022",
+    "question": "Can I export my data?",
+    "answer": "Yes, you can export your data in JSON or CSV format from Settings > Data Export."
+  },
+  {
+    "id": "faq023",
+    "question": "How do I report a bug?",
+    "answer": "Go to Help > Report a Bug and provide details about the issue."
+  },
+  {
+    "id": "faq024",
+    "question": "Is two-factor authentication available?",
+    "answer": "Yes, you can enable 2FA from Settings > Security for extra account protection."
+  },
+  {
+    "id": "faq025",
+    "question": "What browsers are supported?",
+    "answer": "We support the latest versions of Chrome, Firefox, Safari, and Edge."
+  }
+]

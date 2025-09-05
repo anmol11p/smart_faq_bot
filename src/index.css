@@ -1,0 +1,55 @@
+@import "tailwindcss";
+.faq-container {
+  max-height: 400px;
+  overflow-y: auto;
+  padding-right: 5px;
+  position: relative;
+}
+
+.faq-container::-webkit-scrollbar {
+  width: 12px;
+  background: transparent;
+}
+
+.faq-container::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.faq-container::-webkit-scrollbar-thumb {
+  background-color: #2563eb;
+  border-radius: 10px;
+  min-height: 20px;
+}
+
+.faq-container {
+  scrollbar-width: thin;
+  scrollbar-color: #2563eb transparent;
+}
+/* Apply to the whole page */
+html,
+body {
+  height: 100%;
+  overflow-y: auto;
+}
+
+/* WebKit browsers: Chrome, Edge, Safari */
+::-webkit-scrollbar {
+  width: 8px; /* thin scrollbar */
+  background: transparent; /* remove any default background */
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; /* remove track background */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #2563eb; /* thumb color */
+  border-radius: 10px;
+  min-height: 20px; /* small thumb height */
+}
+
+/* Firefox */
+body {
+  /* scrollbar-width: inherit; thin scrollbar */
+  scrollbar-color: #2563eb black; /* thumb color, transparent track */
+}
